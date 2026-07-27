@@ -5,7 +5,7 @@ accounts:
   message: Welcome to Accounts Microservice Prod Github API
   contactDetails:
     name: abdo
-    email: john@example.com
+    email: 32891d9b08db6296786d8fa5d595dfbf2fb16bf96b40bced6f5ae747748895c5ecea8e51c666c2eb0b84ef9e8cdbc151
   onCallSupport:
     - 111111111
     - 222222222
