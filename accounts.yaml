@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: Welcome to Accounts Microservice Local API
+  contactDetails:
+    name: abdo
+    email: john@example.com
+  onCallSupport:
+    - 111111111
+    - 222222222
+
+
+

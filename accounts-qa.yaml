@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: Welcome to Accounts Microservice test file API
+  contactDetails:
+    name: abdo
+    email: john@example.com
+  onCallSupport:
+    - 111111111
+    - 222222222
+
+
+
