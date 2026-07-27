@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: Welcome to Accounts Microservice Prod API
+  message: Welcome to Accounts Microservice Prod Github API
   contactDetails:
     name: abdo
     email: john@example.com
