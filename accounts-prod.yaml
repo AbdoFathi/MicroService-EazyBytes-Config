@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: Welcome to Accounts Microservice Production 10 hookdeck 2 Github API
+  message: Welcome to Accounts Microservice Production 10 hookdeck 3 Github API
   contactDetails:
     name: abdo
     email: "{cipher}32891d9b08db6296786d8fa5d595dfbf2fb16bf96b40bced6f5ae747748895c5ecea8e51c666c2eb0b84ef9e8cdbc151"
