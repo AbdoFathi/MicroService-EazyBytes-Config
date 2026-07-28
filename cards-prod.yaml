@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod  hookdeck 15  APIs "
+  message: "Welcome to EazyBank cards related prod  hookdeck 20  APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
