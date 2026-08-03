@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: Welcome to Accounts Microservice Local webhook 5 21 25555550 API  56 r
+  message: Welcome to Accounts Microservice Local webhook 5 21 25555550 API  56 rss
   contactDetails:
     name: abdo
     email: john@example.com
